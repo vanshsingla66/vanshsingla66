@@ -1,102 +1,93 @@
 <div align="center">
 
-# 👋 Hi, I'm Vansh   
+# 👋 Hey, I'm Vansh Singla  
 
-### 🚀 AI/ML Developer | Full-Stack Learner | Problem Solver  
+### 🧠 AI Engineer in Progress | ⚡ Full-Stack Builder | 🚀 Tech Visionary  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Building+Real+World+Tech+Solutions;Always+Learning+%7C+Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems;Building+AI+Driven+Applications;Full+Stack+Developer;Turning+Ideas+Into+Reality;Always+Learning+%7C+Always+Leveling+Up" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧩 Who Am I?
 
-🎓 B.Tech Computer Science Student  
-🤖 Passionate about Artificial Intelligence & Machine Learning  
-🌐 Building full-stack web applications and intelligent systems  
-📊 Interested in Data Science, Automation, and Scalable Systems  
-🚀 Focused on real-world problem solving through technology  
+🎓 Computer Science Undergraduate  
+🤖 Deeply focused on Artificial Intelligence & Machine Learning  
+🌍 Building scalable web applications & intelligent systems  
+🧠 Exploring system design, automation & data-driven engineering  
+⚡ Passionate about transforming ideas into production-ready solutions  
 
 ---
 
-# 🧠 Technical Skills
+## 💡 What I Do
 
-## 👨‍💻 Programming Languages
+✔ Develop AI-powered applications  
+✔ Build responsive full-stack systems  
+✔ Solve real-world problems using ML & Data  
+✔ Architect structured and scalable solutions  
+✔ Continuously learn and experiment with emerging tech  
+
+---
+
+# 🛠 Tech Arsenal
+
+## 👨‍💻 Programming
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
 </p>
-
----
 
 ## 🌐 Web Development
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+## 🤖 AI / Data Science
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+</p>
+
+## ⚙️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-</p>
+# 📊 GitHub Stats
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vanshsingla66&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsingla66&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-## 🛠 Tools & Platforms
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.simpleicons.org/github/ffffff" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50"/>
-</p>
+# 🚀 Current Mission
+
+> Building intelligent, adaptive systems that go beyond automation  
+> Creating technology that thinks, learns, and evolves  
 
 ---
 
-# 🚀 Current Focus
+# 🌐 Let's Connect
 
-✔ AI-Powered Applications  
-✔ Full-Stack Development (React + Backend)  
-✔ Machine Learning Projects  
-✔ System Design & Scalable Architectures  
-
----
-
-# 📌 Featured Interests
-
-• Artificial Intelligence  
-• Machine Learning  
-• Data Analytics  
-• Web Development  
-• Automation Systems  
-
----
-
-# 🧭 Vision
-
-> Building intelligent systems that solve real-world problems and create meaningful impact through technology.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
+<p >
 
 <a href="https://www.linkedin.com/in/vansh-singla17/">
-<img src="https://img.shields.io/badge/LinkedIn-Vansh-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vansh_Singla-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
+<br>
+<br>
 <a href="mailto:singlavansh125@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT-FF4C29?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-FF4C29?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -105,6 +96,12 @@
 
 <div align="center">
 
-⭐ *"Code. Learn. Build. Improve. Repeat."*
+### ⚡ Philosophy
+
+> "Intelligence is not just automation — it's the ability to adapt, evolve, and improve."
+
+<br>
+
+⭐ From writing code to building systems — I build with purpose.
 
 </div>
