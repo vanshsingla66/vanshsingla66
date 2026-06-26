@@ -1,22 +1,25 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E75B6&height=200&section=header&text=Vansh%20Singla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20CS%20Undergraduate&descAlignY=58&descSize=18&descAlignX=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0E75B6,100:1A4A9A&height=240&section=header&text=VANSH&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Tech%20Builder&descAlignY=55&descSize=20&stroke=00F7FF&strokeWidth=1" width="100%" alt="header" />
 
 <!-- ====================== TYPING ANIMATION ====================== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=820&lines=Designing+Intelligent+Systems;Building+AI-Driven+Applications;Architecting+Scalable+Full-Stack+Apps;Turning+Ideas+Into+Reality;Always+Learning+%7C+Always+Leveling+Up" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=840&lines=Designing+Intelligent+Systems;Building+AI-Driven+Applications;Architecting+Scalable+Full-Stack+Apps;Turning+Ideas+Into+Reality;Always+Learning+%7C+Always+Leveling+Up" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- ====================== SOCIAL BADGES ====================== -->
+<!-- ====================== HERO BADGES ====================== -->
+<a href="https://vanshh.dev">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-vanshh.dev-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/vansh-singla17/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 <a href="mailto:singlavansh125@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-FF4C29?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Reach_Out-FF4C29?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
 </a>
 <a href="https://github.com/vanshsingla66">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
 </div>
@@ -26,7 +29,7 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## 🧩 About Me
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
+<img align="right" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
 
 🎓 &nbsp;Computer Science undergraduate focused on **Artificial Intelligence & Machine Learning**
 
@@ -36,11 +39,13 @@
 
 🌱 &nbsp;Always experimenting with emerging tech and shipping ideas into real products
 
+🌐 &nbsp;Explore my work → **[vanshh.dev](https://vanshh.dev)**
+
 💬 &nbsp;Ask me about **Python, Machine Learning, React, and system design**
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
 
 <!-- ====================== WHAT I DO ====================== -->
 ## 💡 What I Do
@@ -48,16 +53,26 @@
 ```python
 class Vansh:
     def __init__(self):
-        self.role        = "AI/ML Engineer & Full-Stack Developer"
-        self.focus       = ["AI Applications", "Scalable Systems", "Clean Architecture"]
-        self.stack       = ["Python", "JavaScript", "React", "Node.js"]
-        self.mindset     = "Build with purpose. Learn relentlessly."
+        self.role     = "AI/ML Engineer & Full-Stack Developer"
+        self.focus    = ["AI Applications", "Scalable Systems", "Clean Architecture"]
+        self.stack    = ["Python", "JavaScript", "React", "Node.js"]
+        self.website  = "https://vanshh.dev"
+        self.mindset  = "Build with purpose. Learn relentlessly."
 
     def current_mission(self):
         return "Designing intelligent systems that learn, adapt, and improve."
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
+
+<!-- ====================== DEV QUOTE ====================== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
 
 <!-- ====================== TECH ARSENAL ====================== -->
 ## 🛠️ Tech Arsenal
@@ -83,7 +98,7 @@ class Vansh:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
 
 <!-- ====================== CURRENT FOCUS ====================== -->
 ## 🚀 Current Focus
@@ -95,7 +110,7 @@ class Vansh:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
 
 <!--
 ====================== GITHUB STATS (HIDDEN FOR NOW) ======================
@@ -117,17 +132,23 @@ class Vansh:
 
 I'm always open to collaborating on meaningful projects, exchanging ideas, or talking about AI and software.
 
+<a href="https://vanshh.dev">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-vanshh.dev-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/vansh-singla17/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vansh_Singla-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Vansh-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:singlavansh125@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-FF4C29?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-FF4C29?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:1A4A9A&height=3" width="100%" alt="divider" />
 
 <!-- ====================== PHILOSOPHY ====================== -->
 <div align="center">
@@ -141,4 +162,4 @@ I'm always open to collaborating on meaningful projects, exchanging ideas, or ta
 </div>
 
 <!-- ====================== FOOTER WAVE ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00F7FF&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A9A,50:0E75B6,100:00F7FF&height=140&section=footer" width="100%" alt="footer" />
