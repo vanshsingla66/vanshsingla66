@@ -99,8 +99,6 @@ class Vansh:
 
 <!--
 ====================== GITHUB STATS (HIDDEN FOR NOW) ======================
-These are intentionally commented out. Uncomment once contribution
-activity grows so the numbers reinforce — rather than undersell — the profile.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vanshsingla66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
